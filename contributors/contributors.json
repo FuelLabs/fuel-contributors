@@ -3,11 +3,546 @@
     {
       "first_name": "Ruben",
       "last_name": "Amar",
-      "photo": "images.Ruben",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/RubenAmar.png",
       "social": {
         "github": "https://github.com/Rubyt0x",
         "linkedin": "https://linkedin.com/rubenamar",
         "twitter": "https://twitter.com/Rubenevolent"
+      }
+    },
+    {
+      "first_name": "Ahmed",
+      "last_name": "Mujkic",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AhmedMujkic.png",
+      "social": {
+        "github": "https://github.com/MujkicA"
+    }
+  },
+  {
+    "first_name": "Ahmed",
+    "last_name": "Sagdati",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AhmedSagdati.png",
+    "social": {
+      "github": "https://github.com/segfault-magnet"
+    }
+  },
+  {
+    "first_name": "Alex",
+    "last_name": "Decurnou",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AlexDecurnou.png",
+    "social": {
+      "github": "https://github.com/deekerno",
+      "twitter":"https://twitter.com/deekerno"
+    }
+  },
+  {
+    "first_name": "Alex",
+    "last_name": "Hansen",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AlexHansen.png",
+    "social": {
+      "github": "https://github.com/sezna",
+      "twitter":"https://twitter.com/awleckss"
+    }
+  },
+  {
+    "first_name": "Anderson",
+    "last_name": "Arboleya",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AndersonArboleya.png",
+    "social": {
+      "github": "https://github.com/arboleya"
+    }
+  },
+  {
+    "first_name": "Anton",
+    "last_name": "Trunov",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AntonTrunov.png",
+    "social": {
+      "github": "https://github.com/anton-trunov"
+    }
+  },
+  {
+    "first_name": "Austin",
+    "last_name": "O'Brien",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AustinOBrien.png",
+    "social": {
+      "github": "https://github.com/eureka-cpu"
+    }
+  },
+  {
+    "first_name": "Autumn",
+    "last_name": "Chuang",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AutumnChuang.png",
+    "social": {
+      "github": "https://github.com/tumnsie",
+      "linkedin":"https://www.linkedin.com/in/autumnchuang",
+      "twitter":"https://twitter.com/tumnsie"
+    }
+  },
+  {
+    "first_name": "Bikem",
+    "last_name": "Bengisu",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/BikemBengisu.png",
+    "social": {
+      "github": "https://github.com/supiket",
+      "twitter":"https://twitter.com/supiket"
+    }
+  },
+  {
+    "first_name": "Bing",
+    "last_name": "Hwang",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/BingHwang.png",
+    "social": {
+      "github": "https://github.com/binggh",
+      "twitter":"https://twitter.com/binggh"
+    }
+  },
+  {
+    "first_name": "Brandon",
+    "last_name": "Kite",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/BrandonKite.png",
+    "social": {
+      "github": "https://github.com/Voxelot"
+    }
+  },
+  {
+    "first_name": "Brandon",
+    "last_name": "Vrooman",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/BrandonVrooman.png",
+    "social": {
+      "github": "https://github.com/bvrooman"
+    }
+  },
+  {
+    "first_name": "Braqzen",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/Braqzen.png",
+    "social": {
+      "github": "https://github.com/Braqzen"
+    }
+  },
+  {
+    "first_name": "Cameron",
+    "last_name": "Carstens",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/CameronCarstens.png",
+    "social": {
+      "github": "https://github.com/bitzoic"
+    }
+  },
+  {
+    "first_name": "Cameron",
+    "last_name": "Manavian",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/CameronManavian.png",
+    "social": {
+      "github": "https://github.com/camsjams"
+    }
+  },
+  {
+    "first_name": "Cami",
+    "last_name": "Ramos",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/CamiRamos.png",
+    "social": {
+      "github": "https://github.com/camiinthisthang",
+      "twitter":"https://twitter.com/camiinthisthang"
+    }
+  },
+  {
+    "first_name": "ControlC",
+    "last_name": "PlusControlV",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/ControlCPlusControlV.png",
+    "social": {
+      "github": "https://github.com/ControlCplusControlV",
+      "twitter":"https://twitter.com/controlcthenv"
+    }
+  },
+  {
+    "first_name": "David",
+    "last_name": "Young",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/DavidYoung.png",
+    "social": {
+      "github": "https://github.com/BossHog1313"
+    }
+  },
+  {
+    "first_name": "Dhaiwat",
+    "last_name": "Pandya",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/DavidYoung.png",
+    "social": {
+      "github": "https://github.com/Dhaiwat10",
+      "twitter":"https://twitter.com/dhaiwat10"
+    }
+  },
+  {
+    "first_name": "Elvis",
+    "last_name": "Dedic",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/ElvidDedic.png",
+    "social": {
+      "github": "https://github.com/leviathanbeak",
+      "linkedin":"https://www.linkedin.com/in/elvisdedic/"
+    }
+  },
+  {
+    "first_name": "Emily",
+    "last_name": "Dedic",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/EmilyHerbert.png",
+    "social": {
+      "github": "https://github.com/emilyaherbert",
+      "twitter":"https://twitter.com/emilyaherbert",
+      "linkedin":"https://www.linkedin.com/in/emilyaherbert"
+    }
+  },
+  {
+    "first_name": "Emir",
+    "last_name": "Salkic",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/EmilyHerbert.png",
+    "social": {
+      "github": "https://github.com/Salka1988"
+    }
+  },
+  {
+    "first_name": "Felix",
+    "last_name": "Enocksson",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/FelixEnocksson.png",
+    "social": {
+      "twitter": "https://twitter.com/Folifoxx"
+    }
+  },
+  {
+    "first_name": "Grant",
+    "last_name": "Gerber",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/GrantGerber.png",
+    "social": {
+      "twitter": "https://twitter.com/ManOfFrogs"
+    }
+  },
+  {
+    "first_name": "Green",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/Green.png",
+    "social": {
+      "github": "https://github.com/xgreenx"
+    }
+  },
+  {
+    "first_name": "Halil",
+    "last_name":"Beglerović",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/HalilBergelovic.png",
+    "social": {
+      "github": "https://github.com/hal3e"
+    }
+  },
+  {
+    "first_name": "Hannes",
+    "last_name":"Karppila",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/HannesKarppila.png",
+    "social": {
+      "github": "https://github.com/Dentosal"
+    }
+  },
+  {
+    "first_name": "Iqdecay",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/Iqdecay.png",
+    "social": {
+      "github": "https://github.com/iqdecay"
+    }
+  },
+  {
+    "first_name": "João",
+    "last_name":"Matos",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/JoaoMatos.png"
+  },
+  {
+    "first_name": "John",
+    "last_name":"Adler",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/JohnAdler.png",
+    "social": {
+      "github": "https://github.com/adlerjohn",
+      "twitter":"https://twitter.com/jadler0"
+    }
+  },
+  {
+    "first_name": "JC",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/JohnAdler.png",
+    "social": {
+      "github": "https://github.com/AlicanC",
+      "twitter":"https://twitter.com/alicanc"
+    }
+  },
+  {
+    "first_name": "Joshua",
+    "last_name":"Batty",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/JoshuaBatty.png",
+    "social": {
+      "github": "https://github.com/JoshuaBatty",
+      "linkedin":"https://www.linkedin.com/in/joshua-batty"
+    }
+  },
+  {
+    "first_name": "Joshua",
+    "last_name":"Triley",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/JoshuaTriley.png",
+    "social": {
+      "github": "https://github.com/jtriley-eth",
+      "twitter":"https://twitter.com/jtriley_eth"
+    }
+  },
+  {
+    "first_name": "Kaya",
+    "last_name":"Gokalp",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/KayaGokalp.png",
+    "social": {
+      "github": "http://github.com/kayagokalp"
+    }
+  },
+  {
+    "first_name": "Liesl",
+    "last_name":"Eichholz",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/LieslEichholz.png",
+    "social": {
+      "twitter": "https://twitter.com/liesleichholz"
+    }
+  },
+  {
+    "first_name": "Lucy",
+    "last_name":"Gan",
+    "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/LucyGan.png"
+    },
+    {
+      "first_name": "Luiz",
+      "last_name":"Estacio",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/LuizEstacio.png",
+      "social": {
+        "github": "https://github.com/luizstacio",
+        "twitter":"https://twitter.com/luizstacio",
+        "linkedin":"https://br.linkedin.com/in/luizstacio"
+      }
+    },
+    {
+      "first_name": "Luiz",
+      "last_name":"Gomez",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/LuizGomez.png",
+      "social": {
+        "github": "https://github.com/LuizAsFight"
+      }
+    },
+    {
+      "first_name": "Matt",
+      "last_name":"Auer",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/MattAuer.png",
+      "social": {
+        "github": "https://github.com/matt-user"
+      }
+    },
+    {
+      "first_name": "Miguel",
+      "last_name":"Cró",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/MiguelCro.png"
+    },
+    {
+      "first_name": "Mitch",
+      "last_name":"Martin",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/MitchMartin.png",
+      "social": {
+        "github": "https://github.com/mitch-fuel"
+      }
+    },
+    {
+      "first_name": "Mitchell",
+      "last_name":"Nordine",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/MitchellNordine.png",
+      "social": {
+        "github": "https://github.com/mitchmindtree"
+      }
+    },
+    {
+      "first_name": "Mohammad",
+      "last_name":"Fawaz",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/MohammadFawaz.png",
+      "social": {
+        "github": "https://github.com/mohammadfawaz",
+        "twitter":"https://twitter.com/mohammadfawaz",
+        "linkedin":"https://www.linkedin.com/in/mohammad-fawaz-4a44311b"
+      }
+    },
+    {
+      "first_name": "Nick",
+      "last_name":"Furfaro",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/NickFurfaro.png",
+      "social": {
+        "github": "https://github.com/nfurfaro",
+        "twitter":"https://twitter.com/nickfurfaro",
+        "linkedin":"https://www.linkedin.com/in/nick-furfaro-53a40229/"
+      }
+    },
+    {
+      "first_name": "Nick",
+      "last_name":"Alexander",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/NickAlexander.png",
+      "social": {
+        "github": "https://github.com/SilentCicero"
+      }
+    },
+    {
+      "first_name": "Oleksii",
+      "last_name":"Filonenko",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/NickDodson.png",
+      "social": {
+        "github": "https://github.com/Br1ght0ne"
+      }
+    },
+    {
+      "first_name": "Pedro",
+      "last_name":"Nauck",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/PedroNauck.png",
+      "social": {
+        "github": "https://github.com/pedronauck"
+      }
+    },
+    {
+      "first_name": "Rashad",
+      "last_name":"Alston",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/RashadAlston.png",
+      "social": {
+        "github": "https://github.com/ra0x3",
+        "twitter":"http://twitter.com/ra0x03"
+      }
+    },
+    {
+      "first_name": "Rodrigo",
+      "last_name":"Araújo",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/RodrigoAraujo.png",
+      "social": {
+        "github": "https://github.com/digorithm",
+        "twitter":"https://twitter.com/Digorithm"
+      }
+    },
+    {
+      "first_name": "Rostyslav",
+      "last_name":"Tyshko",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/RostyslavTyshko.png",
+      "social": {
+        "github": "https://github.com/rostyslavtyshko"
+      }
+    },
+    {
+      "first_name": "Samuel",
+      "last_name":"Aaron",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/SamuelAaron.png",
+      "social": {
+        "github": "https://github.com/Samuel-Fuel"
+      }
+    },
+    {
+      "first_name": "Sarah",
+      "last_name":"Schwartz",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/SarahSchwartz.png",
+      "social": {
+        "twitter":"https://twitter.com/schwartzswartz"
+      }
+    },
+    {
+      "first_name": "Scott",
+      "last_name":"Williams",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/ScottWilliams.png",
+      "social": {
+        "github":"https://github.com/uberscott"
+      }
+    },
+    {
+      "first_name": "Sérgio",
+      "last_name":"Torres",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/SergioTorres.png",
+      "social": {
+        "github":"https://github.com/Torres-ssf"
+      }
+    },
+    {
+      "first_name": "Simon",
+      "last_name":"Roberts",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/SimonRoberts.png",
+      "social": {
+        "github":"https://github.com/simonr0204"
+      }
+    },
+    {
+      "first_name": "Sophie",
+      "last_name":"Dankel",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/SophieDankel.png",
+      "social": {
+        "github":"https://github.com/sdankel"
+      }
+    },
+    {
+      "first_name": "Stephen",
+      "last_name":"Monn",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/StephenMonn.png",
+      "social": {
+        "github":"https://github.com/pixelcircuits"
+      }
+    },
+    {
+      "first_name": "SwayStar123",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/SwayStar123.png",
+      "social": {
+        "github":"https://github.com/SwayStar123",
+        "twitter":"https://twitter.com/SwayStar123"
+      }
+    },
+    {
+      "first_name": "Tina",
+      "last_name":"Haibodi",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/TinaHaibodi.png",
+      "social": {
+        "github":"https://github.com/tinahaibodi",
+        "twitter":"https://twitter.com/html_tina"
+      }
+    },
+    {
+      "first_name": "Toby",
+      "last_name":"Hutton",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/TobyHutton.png",
+      "social": {
+        "github":"https://github.com/otrho",
+        "linkedin":"https://www.linkedin.com/in/toby-hutton-982608b7/"
+      }
+    },
+    {
+      "first_name": "Tomide",
+      "last_name":"Oladipo",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/TomideOladipo.png",
+      "social": {
+        "github":"https://github.com/tomiiide",
+        "twitter":"https://twitter.com/tomiiide"
+      }
+    },
+    {
+      "first_name": "Tommi",
+      "last_name":"Gowan",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/TommiGowan.png",
+      "social": {
+        "github":"https://github.com/freesig"
+      }
+    },
+    {
+      "first_name": "Vaivaswatha",
+      "last_name":"Nagaraj",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/VaivaswathaNagaraj.png",
+      "social": {
+        "github":"https://github.com/vaivaswatha"
+      }
+    },
+    {
+      "first_name": "Wayne",
+      "last_name":"Van Niekerk",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/WayneVanNiekerk.png",
+      "social": {
+        "twitter":"https://twitter.com/WaynesWorldza",
+        "linkedin":"https://www.linkedin.com/in/waynevn/"
+      }
+    },
+    {
+      "first_name": "Yuvraj",
+      "last_name":"Singh",
+      "photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/YuvrajSingh.png",
+      "social": {
+        "github":"https://github.com/rfuelsh"
       }
     }
   ]
