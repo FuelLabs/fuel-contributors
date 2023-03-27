@@ -36,15 +36,6 @@
 			}
 		},
 		{
-			"first_name": "Alex",
-			"last_name": "Hansen",
-			"photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AlexHansen.png",
-			"social": {
-				"github": "https://github.com/sezna",
-				"twitter": "https://twitter.com/awleckss"
-			}
-		},
-		{
 			"first_name": "Anderson",
 			"last_name": "Arboleya",
 			"photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AndersonArboleya.png",
@@ -66,16 +57,6 @@
 			"photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AustinOBrien.png",
 			"social": {
 				"github": "https://github.com/eureka-cpu"
-			}
-		},
-		{
-			"first_name": "Autumn",
-			"last_name": "Chuang",
-			"photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/AutumnChuang.png",
-			"social": {
-				"github": "https://github.com/tumnsie",
-				"linkedin": "https://www.linkedin.com/in/autumnchuang",
-				"twitter": "https://twitter.com/tumnsie"
 			}
 		},
 		{
@@ -249,15 +230,6 @@
 			"photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/JoaoMatos.png"
 		},
 		{
-			"first_name": "John",
-			"last_name": "Adler",
-			"photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/JohnAdler.png",
-			"social": {
-				"github": "https://github.com/adlerjohn",
-				"twitter": "https://twitter.com/jadler0"
-			}
-		},
-		{
 			"first_name": "JC",
 			"photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/JC.png",
 			"social": {
@@ -272,15 +244,6 @@
 			"social": {
 				"github": "https://github.com/JoshuaBatty",
 				"linkedin": "https://www.linkedin.com/in/joshua-batty"
-			}
-		},
-		{
-			"first_name": "Joshua",
-			"last_name": "Triley",
-			"photo": "https://github.com/FuelLabs/fuel-contributors/blob/master/images/JoshuaTriley.png",
-			"social": {
-				"github": "https://github.com/jtriley-eth",
-				"twitter": "https://twitter.com/jtriley_eth"
 			}
 		},
 		{
